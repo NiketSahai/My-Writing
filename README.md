@@ -1,0 +1,2 @@
+# My-Writing
+My Writing is a general purpose Web based writing app. The app was created keeping in mind different needs of the users. This app uses different web technologies to serve its purpose. This app is free to use and offers different features. You can use this app to write your heart out and use it as your diary, Write your daily logs, writng summary of your lessons, take short notes or May be as your to-do list. There are many ways to use it. I will also rollout further updates. Go to Compose section and compose your first feed
