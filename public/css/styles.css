@@ -1,20 +1,21 @@
 html {
-  min-height: 100%;
+  min-height: 75%;
+  min-width: 75%;
   position: relative;
 }
 
 .container-fluid {
-    padding-top: 70px;
-    padding-bottom: 70px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 .navbar {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border: 0;
-    border-radius: 0;
-    margin-bottom: 0;
-    font-size: 12px;
-    letter-spacing: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 10;
+    border-radius: 20;
+    margin-bottom: 10;
+    font-size: 15px;
+    letter-spacing: 6px;
 }
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
@@ -22,6 +23,7 @@ html {
 
 .footer-padding {
 	padding-bottom: 60px;
+	padding-top: 70px;
 }
 
 .footer {
@@ -29,12 +31,13 @@ html {
 	text-align: center;
 	bottom: 0;
 	width: 100%;
-	height: 60px;
+	height: 70px;
 	background-color: #1abc9c;
 }
 
 .footer p {
-	margin-top: 25px;
-	font-size: 12px;
+	margin-top: 50px;
+	font-size: 10px;
+	margin-bottom: 20px;
   color: #fff;
 }
